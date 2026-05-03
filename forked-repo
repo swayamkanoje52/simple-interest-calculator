@@ -1,0 +1,16 @@
+$ curl -s https://api.github.com/repos/swayamkanoje52/mcino-Introduction-to-Git-and-GitHub
+{
+  "id": 769900779,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "swayamkanoje52/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "fork": true,
+  "owner": {
+    "login": "swayamkanoje52",
+    "id": 205679803
+  },
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false
+  }
+}

@@ -1,0 +1,24 @@
+$ curl -s https://api.github.com/repos/swayamkanoje52/mcino-Introduction-to-Git-and-GitHub/pulls/7402
+{
+  "number": 7402,
+  "state": "closed",
+  "title": "Fix typo in README for course PR",
+  "user": {
+    "login": "swayamkanoje52"
+  },
+  "head": {
+    "label": "swayamkanoje52:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "swayamkanoje52/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
