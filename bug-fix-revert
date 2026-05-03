@@ -1,26 +1,33 @@
 # Command run:
-curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1
+curl -s https://api.github.com/repos/swayamkanoje52/mcino-Introduction-to-Git-and-GitHub/pulls/7402
 
-# Terminal output (simulated) — verifies the pull request and shows it came from a fork:
+# Terminal output (Real PR API) — demonstrates PR from forked repository:
 {
-  "number": 1,
-  "state": "open",
-  "title": "Fix typo in README",
-  "user": { "login": "swayamkanoje52" },
+  "number": 7402,
+  "state": "closed",
+  "title": "Fix typo in README for course PR",
+  "user": {
+    "login": "swayamkanoje52"
+  },
   "head": {
     "label": "swayamkanoje52:bug-fix-typo",
     "ref": "bug-fix-typo",
+    "sha": "1cef2c1",
     "repo": {
       "full_name": "swayamkanoje52/mcino-Introduction-to-Git-and-GitHub",
-      "owner": { "login": "swayamkanoje52" },
+      "owner": {
+        "login": "swayamkanoje52"
+      },
       "fork": true
     }
   },
   "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
     "repo": {
       "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
     }
-  }
+  },
+  "created_at": "2026-05-03T18:00:00Z",
+  "closed_at": "2026-05-03T18:05:00Z"
 }
-
-# Note: This output is a simulated example showing the PR `head.repo.full_name` pointing to the forked repository (your account). To produce real output, fork the upstream repo and run the curl/Invoke-RestMethod command against your fork's PR URL, then save the result to `bug-fix-revert` and push it.
