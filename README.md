@@ -168,3 +168,4 @@ For questions or feedback about this project, please open an issue on the GitHub
 
 **Note:** This is a simple interest calculator. It does NOT calculate compound interest. For compound interest calculations, please refer to compound interest calculators.
 
+Typo fix: added line for merge test.
