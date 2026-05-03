@@ -2,3 +2,5 @@
   bug-fix-typo        1cef2c1 Fix typo in README for course PR
   bug-fix-revert      02b0f0a Create bug-fix-revert branch
   remotes/origin/main bd885a9 Add real PR and fork API outputs for Tasks 6 and 8
+  remotes/origin/bug-fix-typo 1cef2c1 Fix typo in README for course PR
+  remotes/origin/bug-fix-revert 02b0f0a Create bug-fix-revert branch
