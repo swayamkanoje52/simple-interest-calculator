@@ -2,7 +2,7 @@ $ git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
 
-$ git merge --no-ff bug-fix-typo
+$ git merge bug-fix-typo
 Merge made by the 'ort' strategy.
  README.md | 1 +
  1 file changed, 1 insertion(+)
