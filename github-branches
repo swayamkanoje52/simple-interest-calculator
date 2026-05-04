@@ -1,7 +1,7 @@
 $ git branch -avv
   bug-fix-revert                02b0f0a Create bug-fix-revert branch
   bug-fix-typo                  efefa4f Fix typo in README for merge test (2)
-* main                          92a2f63 [origin/main] Final submission: Tasks 6-9 with proper curl/git commands on single lines
+* main                          4a6b185 [origin/main] Use real API and branch outputs for grading
   remotes/origin/bug-fix-revert 02b0f0a Create bug-fix-revert branch
   remotes/origin/bug-fix-typo   efefa4f Fix typo in README for merge test (2)
-  remotes/origin/main           92a2f63 Final submission: Tasks 6-9 with proper curl/git commands on single lines
+  remotes/origin/main           4a6b185 Use real API and branch outputs for grading
