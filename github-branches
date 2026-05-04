@@ -1,7 +1,7 @@
 $ git branch -avv
-* main                13f98dd [origin/main] FINAL: Complete submission files with curl commands and terminal outputs
-  bug-fix-typo        1cef2c1 Fix typo in README for course PR
-  bug-fix-revert      02b0f0a Create bug-fix-revert branch
-  remotes/origin/main 13f98dd FINAL: Complete submission files with curl commands and terminal outputs
-  remotes/origin/bug-fix-typo 1cef2c1 Fix typo in README for course PR
+  bug-fix-revert                02b0f0a Create bug-fix-revert branch
+  bug-fix-typo                  efefa4f Fix typo in README for merge test (2)
+* main                          92a2f63 [origin/main] Final submission: Tasks 6-9 with proper curl/git commands on single lines
   remotes/origin/bug-fix-revert 02b0f0a Create bug-fix-revert branch
+  remotes/origin/bug-fix-typo   efefa4f Fix typo in README for merge test (2)
+  remotes/origin/main           92a2f63 Final submission: Tasks 6-9 with proper curl/git commands on single lines
